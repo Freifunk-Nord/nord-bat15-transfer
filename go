@@ -15,6 +15,9 @@ allow 2a03:2267:4e6f:7264:6666:b3ff:fec2:509a;
 #### Trage deine Knoten hier ein ######
 #24052017
 
+#Piraten-Stade
+allow 2a03:2267:4e6f:7264:a2f3:c1ff:fe3b:6772;
+
 #Schuh-Friedrich
 allow 2a03:2267:4e6f:7264:1aa6:f7ff:feeb:7d60;
 
