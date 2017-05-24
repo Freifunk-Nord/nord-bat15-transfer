@@ -16,7 +16,7 @@ allow 2a03:2267:4e6f:7264:6666:b3ff:fec2:509a;
 #24052017
 
 #NDS-Hue-Jugendfreizeitheim-1106
-#allow 2a03:2267:4e6f:7264:1aa6:f7ff:feca:eefe;
+allow 2a03:2267:4e6f:7264:1aa6:f7ff:feca:eefe;
 #NDS-Hue-Jugendfreizeitheim-1105
 allow 2a03:2267:4e6f:7264:9ade:d0ff:fe65:d120;
 
