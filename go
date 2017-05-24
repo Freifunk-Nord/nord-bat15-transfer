@@ -18,6 +18,8 @@ allow 2a03:2267:4e6f:7264:6666:b3ff:fec2:509a;
 #Schuh-Friedrich
 allow 2a03:2267:4e6f:7264:1aa6:f7ff:feeb:7d60;
 
+#freifunk_hagen_ds_3_vorne
+allow 2a03:2267:4e6f:7264:62e3:27ff:feec:e12a;
 #freifunk_hagen_ds_9a
 allow 2a03:2267:4e6f:7264:9ade:d0ff:fec2:138;
 #freifunk_hagen_ds_11
