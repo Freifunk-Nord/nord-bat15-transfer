@@ -20,6 +20,8 @@ allow 2a03:2267:4e6f:7264:9ade:d0ff:fec2:138;
 #freifunk_hagen_ds_11
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fe40:79d8;
 
+#freifunk_hagen_ha_26
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe56:b922;
 #freifunk_hagen_ha_28
 allow 2a03:2267:4e6f:7264:32b5:c2ff:fee0:b2;
 
