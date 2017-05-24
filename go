@@ -24,6 +24,8 @@ allow 2a03:2267:4e6f:7264:32b5:c2ff:fee0:b2;
 #freifunk_hagen_hi_22
 allow 2a03:2267:4e6f:7264:62e3:27ff:fe60:5a6;
 
+#freifunk_hagen_hi_18_v2
+allow 2a03:2267:4e6f:7264:32b5:c2ff:fe88:4b1e;
 #freifunk_hagen_hi_18_Dach_v2
 allow 2a03:2267:4e6f:7264:62e3:27ff:febd:be1e;
 
