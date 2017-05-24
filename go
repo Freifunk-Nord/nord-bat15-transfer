@@ -15,6 +15,19 @@ allow 2a03:2267:4e6f:7264:6666:b3ff:fec2:509a;
 #### Trage deine Knoten hier ein ######
 #24052017
 
+#freifunk_hagen_ds_11
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe40:79d8;
+
+#freifunk_hagen_ha_28
+allow 2a03:2267:4e6f:7264:32b5:c2ff:fee0:b2;
+
+#freifunk_hagen_hi_22
+allow 2a03:2267:4e6f:7264:62e3:27ff:fe60:5a6;
+
+#freifunk_hagen_hi_18_Dach_v2
+allow 2a03:2267:4e6f:7264:62e3:27ff:febd:be1e;
+
+
 #NDS-Hue-Jugendfreizeitheim-1106
 allow 2a03:2267:4e6f:7264:1aa6:f7ff:feca:eefe;
 #NDS-Hue-Jugendfreizeitheim-1105
