@@ -14,11 +14,21 @@ allow 2a03:2267:4e6f:7264:6666:b3ff:fec2:509a;
 
 #### Trage deine Knoten hier ein ######
 #28052017
+#FF-BU-WH-Heide_Haus_2-2
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fee8:9f04;
+
+#NDS-FFNH-0517-Handeloh-AWCV
+allow 2a03:2267:4e6f:7264:9ade:d0ff:fe65:7aac;
+
 #Moevenberg-5
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fedc:35c8;
 #Moevenberg-6
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fedc:3702;
 
+#freifunk_hagen_sk_09
+allow 2a03:2267:4e6f:7264:62e3:27ff:fe60:6536;
+#freifunk_hagen_sk_06
+allow 2a03:2267:4e6f:7264:62e3:27ff:febd:be20;
 
 
 #24052017
@@ -842,9 +852,6 @@ allow 2a03:2267:4e6f:7264:8616:f9ff:fec8:a5c4;
 #MTV-von-1860-ev-Heide_Gaststube
 allow 2a03:2267:4e6f:7264:ee08:6bff:feec:273e;
 
-#FF-BU-WH-Heide_Haus_2-2
-allow 2a03:2267:4e6f:7264:f6f2:6dff:fee8:9f04;
-
 #FF-BU-Woe-Ring11a
 allow 2a03:2267:4e6f:7264:1aa6:f7ff:fee5:e470;
 
@@ -936,11 +943,6 @@ allow 2a03:2267:4e6f:7264:62e3:27ff:fecf:2276;
 
 #RBZ10
 allow 2a03:2267:4e6f:7264:6670:2ff:fed3:9fc;
-
-#FF-BU-WH-Heide_Haus_1
-allow 2a03:2267:4e6f:7264:f6f2:6dff:feef:468c;
-#FF-BU-WH-Heide_Haus_2-2
-allow 2a03:2267:4e6f:7264:f6f2:6dff:fee8:9f04;
 
 #FF-BU-THW_BA35_1
 allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:4b60;
