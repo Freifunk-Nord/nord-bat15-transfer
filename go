@@ -13,6 +13,14 @@ allow 2001:41d0:401:3100::416c;
 allow 2a03:2267:4e6f:7264:6666:b3ff:fec2:509a;
 
 #### Trage deine Knoten hier ein ######
+#28052017
+#Moevenberg-5
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fedc:35c8;
+#Moevenberg-6
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fedc:3702;
+
+
+
 #24052017
 
 #Piraten-Stade
