@@ -17,6 +17,8 @@ allow 2a03:2267:4e6f:7264:6666:b3ff:fec2:509a;
 #FF-BU-WH-Heide_Haus_2-2
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fee8:9f04;
 
+#NDS-FFNH-0114-Handeloh-AWCV
+allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:e27e;
 #NDS-FFNH-0517-Handeloh-AWCV
 allow 2a03:2267:4e6f:7264:9ade:d0ff:fe65:7aac;
 
