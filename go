@@ -27,6 +27,8 @@ allow 2a03:2267:4e6f:7264:f6f2:6dff:fedc:35c8;
 #Moevenberg-6
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fedc:3702;
 
+#freifunk_hagen_sk_04
+allow 2a03:2267:4e6f:7264:16cc:20ff:feb1:f38;
 #freifunk_hagen_sk_09
 allow 2a03:2267:4e6f:7264:62e3:27ff:fe60:6536;
 #freifunk_hagen_sk_06
