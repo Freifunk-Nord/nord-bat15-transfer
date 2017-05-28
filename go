@@ -14,6 +14,7 @@ allow 2a03:2267:4e6f:7264:6666:b3ff:fec2:509a;
 
 #### Trage deine Knoten hier ein ######
 #28052017
+allow 2a03:2267:4e6f:7264:cabe:19ff:fe6f:3cd9;
 #FF-BU-WH-Heide_Haus_2-2
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fee8:9f04;
 
