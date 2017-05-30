@@ -4,7 +4,7 @@ server {
   listen   [::]:80 default_server ipv6only=on; ## listen for ipv6
 
     location /fw/ {
-        alias /opt/firmware/;
+        alias /opt/www/fw/;
         autoindex on;
     }
 
