@@ -23,6 +23,9 @@ allow 2001:41d0:401:3100::416c;
 allow 2a03:2267:4e6f:7264:6666:b3ff:fec2:509a;
 
 #### Trage deine Knoten hier ein ######
+#FF-BU-Woe-Chstr12
+allow 2a03:2267:4e6f:7264:1aa6:f7ff:fee5:e4b8;
+
 #STD-01
 allow 2a03:2267:4e6f:7264:c66e:1fff:fe2c:79c2;
 #RR
