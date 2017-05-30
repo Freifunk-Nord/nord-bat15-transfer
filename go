@@ -13,6 +13,9 @@ allow 2001:41d0:401:3100::416c;
 allow 2a03:2267:4e6f:7264:6666:b3ff:fec2:509a;
 
 #### Trage deine Knoten hier ein ######
+#Lebaekee
+allow 2a03:2267:4e6f:7264:ea94:f6ff:fea1:e6bc;
+
 #28052017
 allow 2a03:2267:4e6f:7264:cabe:19ff:fe6f:3cd9;
 #FF-BU-WH-Heide_Haus_2-2
