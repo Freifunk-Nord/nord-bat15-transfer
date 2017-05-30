@@ -8,9 +8,9 @@ server {
         autoindex on;
     }
 
-  location / {
-    try_files $uri $uri/ /index.html;
-  }
+  location /firmware/ {
+        alias /opt/firmware/;
+        autoindex on;
   
 allow 2a01:4f8:162:74a2::11;
 allow 2001:41d0:401:3100::416c;
@@ -1039,10 +1039,12 @@ allow 2a03:2267:4e6f:7264:a2f3:c1ff:fe48:d6ba;
   allow 2a03:2267:4e6f:7264:a2f3:c1ff:fe48:d73e;
 
   ####### Unterhalb keine Änderungen durchführen! ###############
-  
+
+deny all;
+ }
+
   root /opt/www;
   autoindex on;
-  deny all;
   index index.html index.htm;
   server_name localhost;
 }
