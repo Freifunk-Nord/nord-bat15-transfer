@@ -23,6 +23,9 @@ allow 2001:41d0:401:3100::416c;
 allow 2a03:2267:4e6f:7264:6666:b3ff:fec2:509a;
 
 #### Trage deine Knoten hier ein ######
+#FF-Elpersb-HausDithmarschen-00
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe85:acee;
+
 #FF-BU-Woe-Chstr12
 allow 2a03:2267:4e6f:7264:1aa6:f7ff:fee5:e4b8;
 
