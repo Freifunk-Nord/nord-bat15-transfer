@@ -23,6 +23,9 @@ allow 2001:41d0:401:3100::416c;
 allow 2a03:2267:4e6f:7264:6666:b3ff:fec2:509a;
 
 #### Trage deine Knoten hier ein ######
+#behrens_reisen
+allow 2a03:2267:4e6f:7264:9ade:d0ff:feab:5114;
+
 #Lebaekee
 allow 2a03:2267:4e6f:7264:ea94:f6ff:fea1:e6bc;
 
