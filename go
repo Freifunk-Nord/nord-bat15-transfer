@@ -23,6 +23,12 @@ allow 2001:41d0:401:3100::416c;
 allow 2a03:2267:4e6f:7264:6666:b3ff:fec2:509a;
 
 #### Trage deine Knoten hier ein ######
+#Meerkabarett-Eventhalle-1
+allow 2a03:2267:4e6f:7264:62e3:27ff:fefb:4bcd;
+
+
+
+
 #FF-Elpersb-HausDithmarschen-00
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fe85:acee;
 
