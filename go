@@ -23,6 +23,9 @@ allow 2001:41d0:401:3100::416c;
 allow 2a03:2267:4e6f:7264:6666:b3ff:fec2:509a;
 
 #### Trage deine Knoten hier ein ######
+#freifunk-Windbergen_A
+allow 2a03:2267:4e6f:7264:62e3:27ff:febe:1c78;
+
 #Sonnenau
 allow 2a03:2267:4e6f:7264:56e6:fcff:fef1:254a;
 
