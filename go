@@ -23,6 +23,9 @@ allow 2001:41d0:401:3100::416c;
 allow 2a03:2267:4e6f:7264:6666:b3ff:fec2:509a;
 
 #### Trage deine Knoten hier ein ######
+#NDS-MailBoxes
+allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:cc02;
+
 #Fremdenzimmer_Westphal
 allow 2a03:2267:4e6f:7264:ea94:f6ff:fe6b:dbc7;
 
