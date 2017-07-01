@@ -17,6 +17,15 @@ server {
         alias /opt/firmware/;
         autoindex on;
   
+#1.8.2017
+#ff-nord-computerschuster
+allow 	2a03:2267:4e6f:7264:f6f2:6dff:fedc:ea84;
+
+#Lambda3-by-Gyrdon
+allow 2a03:2267:4e6f:7264:227:19ff:fec4:b698;
+# und mehr:
+
+
 allow 2a01:4f8:162:74a2::11;
 allow 2001:41d0:401:3100::416c;
 
@@ -656,6 +665,7 @@ allow 2a03:2267:4e6f:7264:f6f2:6dff:fe52:7f34;
 ## 21.05.2017
 #FF-Hanstedt-20
 allow 2a03:2267:4e6f:7264:f6f2:6dff:fe85:bfa6;
+
 
 #HBJensen_Sylt_7
 allow 2a03:2267:4e6f:7264:92f6:52ff:feb5:2c8a;
