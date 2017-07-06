@@ -17,6 +17,12 @@ server {
         alias /opt/firmware/;
         autoindex on;
 
+#Erheiterung_Boehe_GmbH
+allow 2a03:2267:4e6f:7264:16cc:20ff:fee1:3fc4;
+
+#FF_SL_Husumer_Str_001
+allow 2a03:2267:4e6f:7264:eade:27ff:fefd:2cce;
+
 #FF-BU-Buchholz_Gemeinde_2
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe35:3128;
 
