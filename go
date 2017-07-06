@@ -16,7 +16,13 @@ server {
   location /firmware/ {
         alias /opt/firmware/;
         autoindex on;
-  
+
+#FF-BU-Buchholz_Gemeinde_2
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe35:3128;
+
+#ff-nord-computerschuster
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fedc:ea84;
+
 #1.8.2017
 #ff-nord-computerschuster
 allow 	2a03:2267:4e6f:7264:f6f2:6dff:fedc:ea84;
