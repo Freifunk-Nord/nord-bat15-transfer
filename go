@@ -17,6 +17,33 @@ server {
         alias /opt/firmware/;
         autoindex on;
 
+#Fremdenzimmer_Westphal
+allow 2a03:2267:4e6f:7264:ea94:f6ff:fe6b:dbc7;
+
+#Sonnenau
+allow 2a03:2267:4e6f:7264:56e6:fcff:fef1:254a;
+
+#FF-HB-050
+allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:6bf6;
+
+#FF-Hanstedt-20
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe85:bfa6;
+
+#Lambda3-by-Gyrdon
+allow 2a03:2267:4e6f:7264:227:19ff:fec4:b698;
+
+#FF-BU-Buchholz_Gemeinde_2
+allow 2a03:2267:4e6f:7264:ee08:6bff:fe35:3128;
+
+#Lambda3-by-Gyrdon
+allow 2a03:2267:4e6f:7264:227:19ff:fec4:b698;
+
+#NDS-MailBoxes
+allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:cc02;
+
+
+
+
 #Erheiterung_Boehe_GmbH
 allow 2a03:2267:4e6f:7264:16cc:20ff:fee1:3fc4;
 
