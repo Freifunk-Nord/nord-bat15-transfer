@@ -35,8 +35,6 @@ allow 2a03:2267:4e6f:7264:f6f2:6dff:fe85:bfa6;
 allow 2a03:2267:4e6f:7264:227:19ff:fec4:b698;
 
 #Sonnenau
-2allow a03:2267:4e6f:7264:56e6:fcff:fef1:254a;
-
 #Freifunk-OpenWLAN
 allow 2a03:2267:4e6f:7264:ee08:6bff:fe73:72ac;
 
