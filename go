@@ -8,6 +8,11 @@ server {
         autoindex on;
     }
 
+    location /map/ {
+        alias /opt/nord-ffmap-backend/outjson/;
+        autoindex on;
+    }
+
    location /fw/stable/factory {
              proxy_pass http://nord.freifunk.net/firmware/stable/factory/;
              proxy_connect_timeout 6s;
