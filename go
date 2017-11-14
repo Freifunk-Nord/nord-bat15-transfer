@@ -22,31 +22,20 @@ server {
         alias /opt/firmware/;
         autoindex on;
 
-#Bar_Freifunk_841
-allow 2a03:2267:4e6f:7264:fa1a:67ff:fe7f:8fdc;
-
-#NDS-MailBoxes
-allow 2a03:2267:4e6f:7264:ee08:6bff:fea4:cc02;
-
-#FF-Hanstedt-20
-allow 2a03:2267:4e6f:7264:f6f2:6dff:fe85:bfa6;
-
-#Lambda3-by-Gyrdon
-allow 2a03:2267:4e6f:7264:227:19ff:fec4:b698;
-
-#Sonnenau
-#Freifunk-OpenWLAN
-allow 2a03:2267:4e6f:7264:ee08:6bff:fe73:72ac;
-
-#FF-BU-Burger-Grill_BA3a
-allow 2a03:2267:4e6f:7264:1aa6:f7ff:fee5:d27c;
-
-#FF-HB-050
-allow 2a03:2267:4e6f:7264:62e3:27ff:fee7:6bf6;
+deny 2a03:2267:4e6f:7264:f6f2:6dff:fe52:b854;
+deny 2a03:2267:4e6f:7264:f6f2:6dff:fe5f:1462;
+deny 2a03:2267:4e6f:7264:6a72:51ff:fe62:b5ba;
+deny 2a03:2267:4e6f:7264:6a72:51ff:fe62:b7a8;
+deny 2a03:2267:4e6f:7264:6a72:51ff:fe48:bf9c;
+deny 2a03:2267:4e6f:7264:ee08:6bff:fe2b:bdf2;
+deny 2a03:2267:4e6f:7264:ee08:6bff:fea4:cc22;
+deny 2a03:2267:4e6f:7264:ee08:6bff:fea4:ca6e;
+deny 2a03:2267:4e6f:7264:ee08:6bff:fea4:cc64;
+deny 2a03:2267:4e6f:7264:ee08:6bff:fe78:67c4;
+deny 2a03:2267:4e6f:7264:ee08:6bff:fe78:721c;
 
   ####### Unterhalb keine Änderungen durchführen! ###############
-
-deny all;
+  
  }
 
   root /opt/www;
