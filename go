@@ -13,10 +13,15 @@ server {
         autoindex on;
     }
 
-  # location /fw/stable/factory {
-  #           proxy_pass http://nord.freifunk.net/firmware/stable/factory/;
-  #           proxy_connect_timeout 6s;
-  #  }
+   location /fw/stable/ {
+             proxy_pass http://nord.freifunk.net/firmware/stable/;
+             proxy_connect_timeout 6s;
+    }
+
+   location /nordheide/ {
+             proxy_pass http://update.freifunk-nordheide.de/firmware/;
+             proxy_connect_timeout 6s;
+    }
 
   #location /firmware/ {
   #      alias /opt/firmware/;
