@@ -18,11 +18,6 @@ server {
              proxy_connect_timeout 6s;
     }
 
-   location /nordheide/ {
-             proxy_pass http://update.freifunk-nordheide.de/firmware/;
-             proxy_connect_timeout 6s;
-    }
-
   #location /firmware/ {
   #      alias /opt/firmware/;
   #      autoindex on;
