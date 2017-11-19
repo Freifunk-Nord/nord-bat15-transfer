@@ -29,17 +29,15 @@ server {
   root /opt/www;
   autoindex on;
 
-deny 2a03:2267:4e6f:7264:f6f2:6dff:fe52:b854;
-deny 2a03:2267:4e6f:7264:f6f2:6dff:fe5f:1462;
-deny 2a03:2267:4e6f:7264:6a72:51ff:fe62:b5ba;
-deny 2a03:2267:4e6f:7264:6a72:51ff:fe62:b7a8;
-deny 2a03:2267:4e6f:7264:6a72:51ff:fe48:bf9c;
-deny 2a03:2267:4e6f:7264:ee08:6bff:fe2b:bdf2;
 deny 2a03:2267:4e6f:7264:ee08:6bff:fea4:cc22;
 deny 2a03:2267:4e6f:7264:ee08:6bff:fea4:ca6e;
 deny 2a03:2267:4e6f:7264:ee08:6bff:fea4:cc64;
 deny 2a03:2267:4e6f:7264:ee08:6bff:fe78:67c4;
 deny 2a03:2267:4e6f:7264:ee08:6bff:fe78:721c;
+deny 2a03:2267:4e6f:7264:6a72:51ff:fe62:b7a8;
+deny 2a03:2267:4e6f:7264:6a72:51ff:fe48:bf9c;
+deny 2a03:2267:4e6f:7264:f6f2:6dff:fe52:b854;
+deny 2a03:2267:4e6f:7264:ee08:6bff:fe2b:bdf2;
 
 index index.html index.htm;
   server_name localhost;
